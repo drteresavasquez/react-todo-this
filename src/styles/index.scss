@@ -1,0 +1,10 @@
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+@import 'variables';
+
+html {
+  background-color: $favColor;
+}
+
+h1, h3, input {
+  font-family: $headings;
+}
